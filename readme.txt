@@ -1,1 +1,1 @@
-This is lab 2
+the lab of day2 in Version Control
